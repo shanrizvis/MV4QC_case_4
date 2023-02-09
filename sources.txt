@@ -1,0 +1,11 @@
+https://kazuar.github.io/light-detection-opencv/
+
+https://conradbailey.github.io/org-site-demo/blog/charging_slippers/
+
+https://stackoverflow.com/questions/10702105/detecting-led-object-status-from-image
+
+https://itecnote.com/tecnote/opencv-detecting-led-object-status-from-image/
+
+https://www.reddit.com/r/opencv/comments/9wjy62/question_im_finding_out_how_hard_it_is_to_detect/
+
+https://pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/
